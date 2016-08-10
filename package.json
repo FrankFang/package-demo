@@ -1,0 +1,14 @@
+{
+  "name": "frank-demo-001",
+  "version": "0.1.0",
+  "description": "这是一个测试的 package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "frankfang",
+  "license": "MIT"
+}
