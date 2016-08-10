@@ -11,5 +11,5 @@ var path = require('path');
 gulp.task('less', function () {
   return gulp.src('./src/*.less')
     .pipe(less())
-    .pipe(gulp.dest('./src/'));
+    .pipe(gulp.dest('./dist/'));
 });
